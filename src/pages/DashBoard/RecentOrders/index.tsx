@@ -18,7 +18,7 @@ const RecentOrders = () => {
         <tr className="flex justify-between text-xs font-semibold border-2 rounded-md my-4 p-2">
           <td className="w-1/5">#21345</td>
           <td className="w-1/3 flex items-center">
-            <img src="/man.png" className="w-6 h-6" alt="" />
+            <img src="/images/man.png" className="w-6 h-6" alt="" />
             <p className="mx-2">Neil Armstrong</p>
           </td>
           <td className="w-1/5">18 Apr 2021</td>
@@ -29,7 +29,7 @@ const RecentOrders = () => {
         <tr className="flex justify-between text-xs font-semibold border-2 rounded-md my-4 p-2">
           <td className="w-1/5">#21345</td>
           <td className="w-1/3 flex items-center">
-            <img src="/man-1.png" className="w-6 h-6" alt="" />
+            <img src="/images/man-1.png" className="w-6 h-6" alt="" />
             <p className="mx-2">Paul Jones</p>
           </td>
           <td className="w-1/5">15 Apr 2021</td>
@@ -40,7 +40,7 @@ const RecentOrders = () => {
         <tr className="flex justify-between text-xs font-semibold border-2 rounded-md my-4 p-2">
           <td className="w-1/5">#21345</td>
           <td className="w-1/3 flex items-center">
-            <img src="/woman.png" className="w-6 h-6" alt="" />
+            <img src="/images/woman.png" className="w-6 h-6" alt="" />
             <p className="mx-2">Olivia Baker</p>
           </td>
           <td className="w-1/5">15 Apr 2021</td>
@@ -51,7 +51,7 @@ const RecentOrders = () => {
         <tr className="flex justify-between text-xs font-semibold border-2 rounded-md my-4 p-2">
           <td className="w-1/5">#21345</td>
           <td className="w-1/3 flex items-center">
-            <img src="/profile.png" className="w-6 h-6" alt="" />
+            <img src="/images/profile.png" className="w-6 h-6" alt="" />
             <p className="mx-2">Mike Dean</p>
           </td>
           <td className="w-1/5">15 Apr 2021</td>
@@ -61,7 +61,7 @@ const RecentOrders = () => {
         <tr className="flex justify-between text-xs font-semibold border-2 rounded-md my-4 p-2">
           <td className="w-1/5">#21345</td>
           <td className="w-1/3 flex items-center">
-            <img src="/woman-1.png" className="w-6 h-6" alt="" />
+            <img src="/images/woman-1.png" className="w-6 h-6" alt="" />
             <p className="mx-2">Lara Silva</p>
           </td>
           <td className="w-1/5">23 Mar 2021</td>

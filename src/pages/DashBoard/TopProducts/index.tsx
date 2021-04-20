@@ -16,7 +16,7 @@ const TopProducts = () => {
           <div className="mx-2">
             <img
               className="w-24 h-24 object-contain"
-              src="/andrew-hutchings-camera.jpg"
+              src="/images/andrew-hutchings-camera.jpg"
               alt=""
             />
           </div>
@@ -48,7 +48,7 @@ const TopProducts = () => {
           <div className="mx-2">
             <img
               className="w-24 h-24 object-contain"
-              src="/christopher-john-pratt-wine.jpg"
+              src="/images/christopher-john-pratt-wine.jpg"
               alt=""
             />
           </div>
@@ -80,7 +80,7 @@ const TopProducts = () => {
           <div className="mx-2">
             <img
               className="w-24 h-24 object-contain"
-              src="/jade-scarlato-shoes.jpg"
+              src="/images/jade-scarlato-shoes.jpg"
               alt=""
             />
           </div>

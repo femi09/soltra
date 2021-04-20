@@ -6,7 +6,7 @@ const Sidebar = () => {
   return (
     <div className="sidebar">
       <div className="app_logo shadow-sm px-6 flex items-center">
-        <img className="h-8 w-8" src="/shopping-cart.png" alt="" />
+        <img className="h-8 w-8" src="/images/shopping-cart.png" alt="" />
         <h1 className="text-xl mx-2 font-bold text-blue-600">SOLTRA</h1>
       </div>
 
@@ -17,11 +17,11 @@ const Sidebar = () => {
       <div className="integrations p-6">
         <h1 className="text-blue-600 text-m font-bold py-2">Integrations</h1>
         <div className="sidebar_option flex items-center py-2 text-sm font-semibold text-gray-500">
-          <img className="w-8 h-8" src="/mailchimp.png" alt="" />
+          <img className="w-8 h-8" src="/images/mailchimp.png" alt="" />
           <p className="mx-2"> Mailchimp</p>
         </div>
         <div className="sidebar_option flex items-center py-2 text-sm font-semibold text-gray-500">
-          <img className="w-8 h-8" src="/paystack.png" alt="" />
+          <img className="w-8 h-8" src="/images/paystack.png" alt="" />
           <p className="mx-2">Paystack</p>
         </div>
       </div>

@@ -16,7 +16,7 @@ const Header = () => {
             <NotificationsNoneIcon />
           </div>
           <div className="header_user flex items-center">
-            <img className="w-8 h-8 mx-2" src="/user.png" alt="" />
+            <img className="w-8 h-8 mx-2" src="/images/user.png" alt="" />
             <p className="text-xs font-bold text-gray-500">Jane Doe</p>
             <KeyboardArrowDownIcon />
           </div>
